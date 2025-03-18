@@ -1,1 +1,1 @@
-# BIP deeplearning in forestry project
+# BIP deep learning in forestry project
