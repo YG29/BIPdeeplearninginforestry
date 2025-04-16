@@ -1,0 +1,6 @@
+names:
+  0: tree
+nc: 1
+path: /Users/ygao/Documents/alexandria/RUG/forestry/notebooks
+train: images/train
+val: images/val
